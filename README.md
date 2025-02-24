@@ -8,8 +8,6 @@ Frontend Developer & Tester
 * 🖥️  See my portfolio at [My Port](http://aumkitti.github.io/Kittipong-Portfolio/)
 * ✉️  You can contact me at [kittipong.ktpd@gmail.com](mailto:kittipong.ktpd@gmail.com)
 
-### Skills
-
 ### Languages
 
 <p align="left">
