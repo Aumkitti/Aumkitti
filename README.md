@@ -22,8 +22,6 @@ Frontend Developer & Tester
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
 <a href="http://www.github.com/Aumkitti"><img src="https://github-readme-stats.vercel.app/api?username=Aumkitti&show_icons=true&hide=stars,issues,&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=181824&hide_border=true&show_icons=true" alt="Aumkitti's GitHub stats" /></a>
 
 <a href="http://www.github.com/Aumkitti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aumkitti&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
